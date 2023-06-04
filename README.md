@@ -7,7 +7,6 @@
     <br>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/aleksandar-rajic-javascript-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
-  <a href = "rajic1133@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 </h3>
