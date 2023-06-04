@@ -1,13 +1,4 @@
 <h3 align="center">
-    Stats 🔥
-    <br>
-    <br>
-    <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=RajicA&theme=merko">
-    <img alt="streak stats" style="max-width:50%;" src="https://streak-stats.demolab.com?user=RajicA&theme=merko">
-</h3>
-<br>
-<br>
-<h3 align="center">
     Let's Connect
     <a target="_blank">
         <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
