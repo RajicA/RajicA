@@ -9,13 +9,3 @@
   <a href="https://www.linkedin.com/in/aleksandar-rajic-javascript-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"></a>
 </p>
 
-</h3>
-<br>
-<br>
-
-<h3 align="center">
-    Profile visitors 💡
-    <br>
-    <br>
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/RajicA/count.svg">
-</h3>
